@@ -1,0 +1,13 @@
+# KiCad backups, caches and lock files
+*-backups/
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-bak
+~*.lck
+*.lck
+fp-info-cache
+*.kicad_prl
+# OS / editor
+.DS_Store
+Thumbs.db
